@@ -1,7 +1,7 @@
 {
-  "name": "king19893",
+  "name": "ChainbaseNode3",
   "website": "https://x.com/shanlo136700",
-  "description": "king19893",
+  "description": "ChainbaseNode3",
   "logo": "https://raw.githubusercontent.com/crypttopia/ChainbaseNode3/main/1.png",
   "twitter": "https://x.com/shanlo136700"
 }
